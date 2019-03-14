@@ -1,0 +1,967 @@
+
+
+START =>06 Dec 2017 16:50:22
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>06 Dec 2017 16:54:34
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>06 Dec 2017 17:21:52
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>10 Feb 2018 13:02:34
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>10 Feb 2018 13:13:43
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>10 Feb 2018 13:16:28
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>10 Feb 2018 13:27:32
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>10 Feb 2018 13:33:10
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>10 Feb 2018 13:59:48
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+
+
+START =>10 Feb 2018 14:02:38
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+
+
+START =>10 Feb 2018 14:09:52
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>10 Feb 2018 14:13:30
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>10 Feb 2018 16:13:24
+ 1B000 <= cabecera recibida incorrecta
+5B000 <= cabecera recibida incorrecta
+32000 <= cabecera recibida incorrecta
+4A000 <= cabecera recibida incorrecta
+A000 <= cabecera recibida incorrecta
+D000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+A000 <= cabecera recibida incorrecta
+D000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+A000 <= cabecera recibida incorrecta
+D000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+41000 <= cabecera recibida incorrecta
+76000 <= cabecera recibida incorrecta
+6E000 <= cabecera recibida incorrecta
+65000 <= cabecera recibida incorrecta
+74000 <= cabecera recibida incorrecta
+2F000 <= cabecera recibida incorrecta
+44000 <= cabecera recibida incorrecta
+69000 <= cabecera recibida incorrecta
+67000 <= cabecera recibida incorrecta
+69000 <= cabecera recibida incorrecta
+6C000 <= cabecera recibida incorrecta
+65000 <= cabecera recibida incorrecta
+6E000 <= cabecera recibida incorrecta
+74000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+41000 <= cabecera recibida incorrecta
+72000 <= cabecera recibida incorrecta
+74000 <= cabecera recibida incorrecta
+79000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+45000 <= cabecera recibida incorrecta
+76000 <= cabecera recibida incorrecta
+61000 <= cabecera recibida incorrecta
+6C000 <= cabecera recibida incorrecta
+75000 <= cabecera recibida incorrecta
+61000 <= cabecera recibida incorrecta
+74000 <= cabecera recibida incorrecta
+69000 <= cabecera recibida incorrecta
+6F000 <= cabecera recibida incorrecta
+6E000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+42000 <= cabecera recibida incorrecta
+6F000 <= cabecera recibida incorrecta
+61000 <= cabecera recibida incorrecta
+72000 <= cabecera recibida incorrecta
+64000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+A000 <= cabecera recibida incorrecta
+D000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+4C000 <= cabecera recibida incorrecta
+45000 <= cabecera recibida incorrecta
+44000 <= cabecera recibida incorrecta
+73000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+61000 <= cabecera recibida incorrecta
+6E000 <= cabecera recibida incorrecta
+64000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+73000 <= cabecera recibida incorrecta
+77000 <= cabecera recibida incorrecta
+69000 <= cabecera recibida incorrecta
+74000 <= cabecera recibida incorrecta
+63000 <= cabecera recibida incorrecta
+68000 <= cabecera recibida incorrecta
+65000 <= cabecera recibida incorrecta
+73000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+47000 <= cabecera recibida incorrecta
+50000 <= cabecera recibida incorrecta
+49000 <= cabecera recibida incorrecta
+4F000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+44000 <= cabecera recibida incorrecta
+65000 <= cabecera recibida incorrecta
+6D000 <= cabecera recibida incorrecta
+6F000 <= cabecera recibida incorrecta
+6E000 <= cabecera recibida incorrecta
+73000 <= cabecera recibida incorrecta
+74000 <= cabecera recibida incorrecta
+72000 <= cabecera recibida incorrecta
+61000 <= cabecera recibida incorrecta
+74000 <= cabecera recibida incorrecta
+69000 <= cabecera recibida incorrecta
+6F000 <= cabecera recibida incorrecta
+6E000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+A000 <= cabecera recibida incorrecta
+D000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+A000 <= cabecera recibida incorrecta
+D000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+D000 <= cabecera recibida incorrecta
+A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+2A000 <= cabecera recibida incorrecta
+D000 <= cabecera recibida incorrecta
+A000 <= cabecera recibida incorrecta
+43000 <= cabecera recibida incorrecta
+68000 <= cabecera recibida incorrecta
+6F000 <= cabecera recibida incorrecta
+6F000 <= cabecera recibida incorrecta
+73000 <= cabecera recibida incorrecta
+65000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+54000 <= cabecera recibida incorrecta
+61000 <= cabecera recibida incorrecta
+73000 <= cabecera recibida incorrecta
+6B000 <= cabecera recibida incorrecta
+3A000 <= cabecera recibida incorrecta
+D000 <= cabecera recibida incorrecta
+A000 <= cabecera recibida incorrecta
+42000 <= cabecera recibida incorrecta
+54000 <= cabecera recibida incorrecta
+4E000 <= cabecera recibida incorrecta
+30000 <= cabecera recibida incorrecta
+3A000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+50000 <= cabecera recibida incorrecta
+72000 <= cabecera recibida incorrecta
+69000 <= cabecera recibida incorrecta
+6E000 <= cabecera recibida incorrecta
+74000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+50000 <= cabecera recibida incorrecta
+57000 <= cabecera recibida incorrecta
+4D000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+76000 <= cabecera recibida incorrecta
+61000 <= cabecera recibida incorrecta
+6C000 <= cabecera recibida incorrecta
+75000 <= cabecera recibida incorrecta
+65000 <= cabecera recibida incorrecta
+2E000 <= cabecera recibida incorrecta
+D000 <= cabecera recibida incorrecta
+A000 <= cabecera recibida incorrecta
+42000 <= cabecera recibida incorrecta
+54000 <= cabecera recibida incorrecta
+4E000 <= cabecera recibida incorrecta
+31000 <= cabecera recibida incorrecta
+3A000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+27000 <= cabecera recibida incorrecta
+43000 <= cabecera recibida incorrecta
+79000 <= cabecera recibida incorrecta
+6C000 <= cabecera recibida incorrecta
+6F000 <= cabecera recibida incorrecta
+6E000 <= cabecera recibida incorrecta
+27000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+4C000 <= cabecera recibida incorrecta
+45000 <= cabecera recibida incorrecta
+44000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+64000 <= cabecera recibida incorrecta
+69000 <= cabecera recibida incorrecta
+73000 <= cabecera recibida incorrecta
+70000 <= cabecera recibida incorrecta
+6C000 <= cabecera recibida incorrecta
+61000 <= cabecera recibida incorrecta
+79000 <= cabecera recibida incorrecta
+2E000 <= cabecera recibida incorrecta
+D000 <= cabecera recibida incorrecta
+A000 <= cabecera recibida incorrecta
+42000 <= cabecera recibida incorrecta
+54000 <= cabecera recibida incorrecta
+4E000 <= cabecera recibida incorrecta
+32000 <= cabecera recibida incorrecta
+3A000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+53000 <= cabecera recibida incorrecta
+63000 <= cabecera recibida incorrecta
+72000 <= cabecera recibida incorrecta
+6F000 <= cabecera recibida incorrecta
+6C000 <= cabecera recibida incorrecta
+6C000 <= cabecera recibida incorrecta
+69000 <= cabecera recibida incorrecta
+6E000 <= cabecera recibida incorrecta
+67000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+4C000 <= cabecera recibida incorrecta
+45000 <= cabecera recibida incorrecta
+44000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+64000 <= cabecera recibida incorrecta
+69000 <= cabecera recibida incorrecta
+73000 <= cabecera recibida incorrecta
+70000 <= cabecera recibida incorrecta
+6C000 <= cabecera recibida incorrecta
+61000 <= cabecera recibida incorrecta
+79000 <= cabecera recibida incorrecta
+2E000 <= cabecera recibida incorrecta
+D000 <= cabecera recibida incorrecta
+A000 <= cabecera recibida incorrecta
+42000 <= cabecera recibida incorrecta
+54000 <= cabecera recibida incorrecta
+4E000 <= cabecera recibida incorrecta
+33000 <= cabecera recibida incorrecta
+3A000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+52000 <= cabecera recibida incorrecta
+65000 <= cabecera recibida incorrecta
+74000 <= cabecera recibida incorrecta
+75000 <= cabecera recibida incorrecta
+72000 <= cabecera recibida incorrecta
+6E000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+74000 <= cabecera recibida incorrecta
+6F000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+74000 <= cabecera recibida incorrecta
+68000 <= cabecera recibida incorrecta
+69000 <= cabecera recibida incorrecta
+73000 <= cabecera recibida incorrecta
+20000 <= cabecera recibida incorrecta
+6D000 <= cabecera recibida incorrecta
+65000 <= cabecera recibida incorrecta
+6E000 <= cabecera recibida incorrecta
+75000 <= cabecera recibida incorrecta
+2E000 <= cabecera recibida incorrecta
+D000 <= cabecera recibida incorrecta
+A000 <= cabecera recibida incorrecta
+D000 <= cabecera recibida incorrecta
+A000 <= cabecera recibida incorrecta
+
+
+START =>10 Feb 2018 16:16:14
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>10 Feb 2018 16:20:49
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>10 Feb 2018 16:24:22
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>22 Jun 2018 11:54:09
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>22 Jun 2018 11:56:15
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>22 Jun 2018 11:58:35
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>22 Jun 2018 12:00:42
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>22 Jun 2018 12:14:20
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>22 Jun 2018 12:21:12
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>22 Jun 2018 12:23:31
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>22 Jun 2018 12:28:02
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+
+
+START =>22 Jun 2018 12:29:28
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>22 Jun 2018 12:34:04
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>22 Jun 2018 14:42:38
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>19 Jul 2018 17:19:27
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>30 Nov 2018 16:39:23
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+
+
+START =>30 Nov 2018 16:43:37
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>30 Nov 2018 17:02:56
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>05 Dec 2018 11:35:38
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>05 Dec 2018 11:39:18
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>13 Mar 2019 11:15:27
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>13 Mar 2019 19:21:53
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>13 Mar 2019 19:23:21
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>13 Mar 2019 19:54:03
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>13 Mar 2019 20:25:17
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>13 Mar 2019 20:58:16
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>14 Mar 2019 09:02:45
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>14 Mar 2019 09:06:46
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>14 Mar 2019 09:53:31
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>14 Mar 2019 09:56:29
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>14 Mar 2019 10:18:11
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
+
+
+START =>14 Mar 2019 10:23:59
+ ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de SOFT_RST
+ACK de ENABLE_MODULES
+ACK de LOG_RUN
+ACK de LOG_RUN
+ACK de LOG_READ
